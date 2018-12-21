@@ -1,6 +1,6 @@
 # Useful Mac Alias
 ```bash
-alias kgp="kubectl get all --all-namespaces"
+alias kga="kubectl get all --all-namespaces"
 ```
 
 ```bash
