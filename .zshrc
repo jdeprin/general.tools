@@ -3,13 +3,13 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/jaretdeprin/.oh-my-zsh"
+export ZSH="/Users/jaret/.oh-my-zsh"
 
 # AWS
 export AWS_DEFAULT_PROFILE=default
 
 # Kubectl
-export KUBECONFIG="/Users/jaretdeprin/.kube/config-eks"
+export KUBECONFIG="/Users/jaret/.kube/config-cluster-main"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
